@@ -8,7 +8,7 @@ print(a+b)
 
 # Dataype
 
-a=1  # a is an interger
+a=1  # a is an integer
 b=5.22 # b is a floating point number
 c="Disha" # c is a string
 d=True # d is a boolean variable
